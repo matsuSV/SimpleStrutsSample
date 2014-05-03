@@ -23,4 +23,5 @@ public class StartAction extends Action {
 
 		 return actionMapping.findForward("success");
 	 }
+	 
 }
